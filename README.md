@@ -17,3 +17,7 @@ https://pinellon.github.io/pinello.dev/
 - `index.html`: página estática principal.
 - `.github/workflows/deploy-pages.yml`: workflow de publicação no GitHub Pages.
 - `.nojekyll`: evita processamento pelo Jekyll.
+
+## Status
+
+Deploy configurado em 2026-06-27.
